@@ -47,7 +47,7 @@ import pprint
 # Perform searches and print the results
 for query in queries:
     print(f"Query: {query}")
-    top_docs = index.search(query, num_result=3, filter_dict=filter_dict)
+    top_docs = index.search(query, num_results=3, filter_dict=filter_dict)
     for i, doc in enumerate(top_docs):
         print(f"Result {i+1}:")
         pprint.pprint(doc, indent=4)

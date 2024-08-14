@@ -35,7 +35,7 @@ class SearchQuery(BaseModel):
 @app.post("/search/")
 def search_documents(search: SearchQuery):
     try:
-        results = index.search(search.query, num_result=search.num_results, filter_dict=search.filter_dict)
+        results = index.search(search.query, num_results=search.num_results, filter_dict=search.filter_dict)
         return {"results": results}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

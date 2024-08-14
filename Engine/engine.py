@@ -107,7 +107,7 @@ class SearchIndex:
         
         return self
     
-    def search(self, user_query: str, num_result: int = 5, filter_dict: Dict[str, str] = None) -> List[Dict[str, Any]]:
+    def search(self, user_query: str, num_results: int = 5, filter_dict: Dict[str, str] = None) -> List[Dict[str, Any]]:
         """ 
         Objective:
             - Implement a method that takes a query and returns the most relevant documents based on how similar they are to the query.
@@ -146,7 +146,7 @@ class SearchIndex:
                     similarity_scores *= mask.to_numpy()
             
         # Rank documents by their scores, get the indices of the top results
-        top_indices = np.argsort(similarity_scores)[-num_result:][::-1]
+        top_indices = np.argsort(similarity_scores)[-num_results:][::-1]
 
         # Retrieve the top documents based on the sorted indices
         top_docs = [self.documents[i] for i in top_indices if similarity_scores[i] > 0]
