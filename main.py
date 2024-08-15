@@ -4,12 +4,10 @@ from typing import Dict
 import json
 import os
 
-# Import our SearchIndex class
 from Engine.engine import SearchIndex
 
 app = FastAPI()
 
-# Paths to our data files
 data_file = 'Knowledge_Base/faq_documents.json'
 pickle_file = 'VectorStore/tfidf_data.pkl'
 
