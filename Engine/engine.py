@@ -29,7 +29,7 @@ class SearchIndex:
         This contains the core functionality of the search engine. It manages the inndexing the documents and provides the capability to searhc those documents.
     """
     
-    def __init__(self, text_fields: List[str], keyword_fields: List[str], vectorizer_params: Optional[Dict] = None) -> None:
+    def __init__(self, text_fields: List[str], keyword_fields: List[str], vectorizer_params: Optional[Dict] = None, boosting_factors: Optional[Dict[str, float]] = None):
         """ 
             text_fields: Fields in the JSON documents that contain the text data that we want to index like ['question', 'answer']
             keyword_fields: Fields in the JSON documents that we will use for the exact matching like ['section', 'course']
@@ -37,15 +37,13 @@ class SearchIndex:
             
         """
         
-        if vectorizer_params is None:
-            vectorizer_params = {}
-        self.vectorizer_params = vectorizer_params
-        # Store Field Names
         self.text_fields = text_fields
         self.keyword_fields = keyword_fields
-        
-        # Initialize the TF-IDF vectorizers for each text field
-        self.vectorizers = {field: TfidfVectorizer(**vectorizer_params) for field in text_fields}
+        self.vectorizer_params = vectorizer_params if vectorizer_params else {}
+        self.boosting_factors = boosting_factors if boosting_factors else {field: 1.0 for field in text_fields}  # Default boost of 1.0
+
+        # Initialize the TF-IDF vectorizers for each text field with provided params
+        self.vectorizers = {field: TfidfVectorizer(**self.vectorizer_params) for field in text_fields}
         
         # # Initialize specific vectorizers for known text fields
         # self.question_vectorizer = TfidfVectorizer(**vectorizer_params)
@@ -95,16 +93,17 @@ class SearchIndex:
         
         for field in self.text_fields:
             texts = [doc.get(field, '') for doc in documents]
-            self.text_matrices[field] = self.vectorizers[field].fit_transform(texts)
+            matrix = self.vectorizers[field].fit_transform(texts)
+            # Apply boosting at the indexing stage if specified
+            if field in self.boosting_factors:
+                matrix *= self.boosting_factors[field]
+            self.text_matrices[field] = matrix
             
         # Process keyword fields
-        keyword_data = {field: [doc.get(field, '') for doc in documents] for field in self.keyword_fields}
-        self.keyword_df = pd.DataFrame(keyword_data)
-        
-        # Save the processed data if a pickle file is provided
+        self.keyword_df = pd.DataFrame({field: [doc.get(field, '') for doc in documents] for field in self.keyword_fields})
+
         if pickle_file:
             self.save_to_pickle(pickle_file)
-        
         return self
     
     def search(self, user_query: str, num_results: int = 5, filter_dict: Dict[str, str] = None) -> List[Dict[str, Any]]:
@@ -133,18 +132,20 @@ class SearchIndex:
             
             # Add the boosting factor for the question field
             # Inside the search method, add a boosting factor
-            boost = 2 if field == 'question' else 1
+            boost = self.boosting_factors.get(field, 1.0)
             
             # Accumulate the scores
             similarity_scores += similarity * boost
         
         # Apply filtering based on filter_dict
-        if filter_dict:        
+        if filter_dict:
             for field, value in filter_dict.items():
-                if field in self.keyword_fields:
+                if field in self.keyword_fields and value in self.keyword_df[field].values:
                     mask = self.keyword_df[field] == value
-                    similarity_scores *= mask.to_numpy()
-            
+                    similarity_scores *= mask.astype(int).to_numpy()
+                else:
+                    similarity_scores *= 0  # Apply zero mask if filter does not match any document
+    
         # Rank documents by their scores, get the indices of the top results
         top_indices = np.argsort(similarity_scores)[-num_results:][::-1]
 
