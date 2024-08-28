@@ -1,0 +1,2634 @@
+[
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Yesterday I'd completed 1st lab i.e. Exploring a BigQuery a puvlic dataset. without any problem. But the 2nd lab is lot of confusing. There is a mismatch between on screen instructions and actual lab. Some options are missing which are in Lab but not in instructions.",
+        "asked_by": "Yogeshwar Dayal Gaju",
+        "answer": "Hi, thanks for your feedback. Could you please share what part was the issue? The cloud industry is evolving so quickly that changes are often not reflected in the manual.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Do I strictly need to do 3 labs only? I mean, if I want, can I complete all the 4 labs?? Will it anyway effect the qualification for 2nd stage?",
+        "asked_by": "Abhik",
+        "answer": "We recommend that you complete all four, with three being the minimum.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I am uanble to remembe properly. But Some options are missing",
+        "asked_by": "Yogeshwar Dayal Gaju",
+        "answer": "I am sorry. Could you please elaborate your query here",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I lost while doing the Lab 1. Finally I was able to start the lab but could not follow the instruction. Will that be possible to show a Demo again for the Lab 1 - slowly, step by step. Thanks.",
+        "asked_by": "Aziz Quazi",
+        "answer": "We have another lab related to BigQuery today. Let us try and cover few steps from lab 1 during that lab",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "no voice",
+        "asked_by": "akshay rathod",
+        "answer": "Not started yet :)",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Thanks so much Hwan-Tae and Nikhil.",
+        "asked_by": "Aziz Quazi",
+        "answer": "You're welcome! :-)",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Gm",
+        "asked_by": "Aditya Kumar Singh",
+        "answer": "Good morning everyone :)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Each lab session do we have 3 session? or totally 3 lab",
+        "asked_by": "kethzi",
+        "answer": "3 attempts per lab",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "i was getting error in the first lab...the table was not getting created",
+        "asked_by": "Rutuja chinchghare",
+        "answer": "what does the error message read as?",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "can't we create a stream from Cloud SQL to Bigquery ?",
+        "asked_by": "Mohammad Talha",
+        "answer": "You can insert row by row into BigQuery using Streaming API, but that is expensive compared to batch jobs",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Readlist - have very detail documentation, shall we try those excercise in this lab session?",
+        "asked_by": "kethzi",
+        "answer": "can you elaborate? didnt quite get your point",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how to make sure I have successfully completed the lab assignment.",
+        "asked_by": "Mudassir Kamran",
+        "answer": "You can check your completions here https://googlecloud.qwiklabs.com/profile/activity",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "While creating a dataflow I followed the instructions given in lab, but my dataflows are remained in queued status, Could you please suggest.",
+        "asked_by": "Gangotri Madhukar Bhat",
+        "answer": "It takes a little while to start up, because it's the first step to prepare the backend based on virtual machines.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Where does BQ stores data, is it always GCS bucket holding data or we have another file system based architecture underneath?",
+        "asked_by": "Vishal Bansal",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Do I need prior knowledge of ML for this section?",
+        "asked_by": "Sunny Chauhan",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How to learn about writing tranformation files and UDF from scratch",
+        "asked_by": "Shrisha",
+        "answer": "Start with Dataflow's Python SDK docs. Explore examples for ParDo transforms and custom UDFs. Practice with simple data transformations.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Do we have to write queries from scratch or just copy paste that are already given in the lab for BigQuery assignment?",
+        "asked_by": "Rohit",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Whats the Difference in LOAD from CSV and stream approach that was in lab ?",
+        "asked_by": "Mohammad Talha",
+        "answer": "LOAD from CSV loads the entire file at once, while the stream approach processes data in chunks, making it more efficient for large datasets.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "In instruction it does not ask us to choose the region instead of multi-region. Due to this dataset was created in multi region. so please correct the docs section",
+        "asked_by": "Suresh",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How do we pass the stage 1 to stage 2?",
+        "asked_by": "Elvis Lim",
+        "answer": "please complete the 3 out of 4 labs",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "google cloud data engineer certificate , suggest that you need 3+ year of experience , will this be enough ?",
+        "asked_by": "ashok",
+        "answer": "Yes, that's absolutely fine.",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is egress ?",
+        "asked_by": "ashok",
+        "answer": "Egress is data leaving your Google Cloud project, like transferring data to your local machine.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "After the hands-on activity or the training, do we have the oppurtunity to test and try using our own test data?",
+        "asked_by": "Nebben Dico",
+        "answer": "Yes, you can apply your learning to your own data using Google Cloud's free tier or a paid account.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how often is apache beam choosen in industry compared to spark?",
+        "asked_by": "Mandeep Singh",
+        "answer": "Apache Beam is often chosen for its flexibility and portability, while Spark is popular for its mature ecosystem and performance. Both are widely used.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how to access Lab, please explain",
+        "asked_by": "Shyam Kumar Sharma",
+        "answer": "https://www.cloudskillsboost.google/ilt/classrooms/24608/focuses/212748",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I believe this is the Data Eng sessions not the AI, ML ? and we don't need knowledge of ML etc .",
+        "asked_by": "Shyam Kumar Sharma",
+        "answer": "This course covers Big Data concepts, including data engineering, but also introduces foundational ML concepts to understand how they work with Big Data.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "The labs were preety much easy and also Nikhil had done the same in the class , Thanks Nikhil",
+        "asked_by": "sailaja prasad mohanty",
+        "answer": "Yw:)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I have done the labs yesterday. But 2nd one i attempted 3 times. At 3rd attempt I was able to solve it. where can i confirm the correctness of the labs",
+        "asked_by": "Bhavithra R",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How can we reduce costs when running larger data queries in BigQuery?",
+        "asked_by": "Hamza abbas",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "After the training, do we have the opportunity to do hands-on data with our own test data itself? and explore the system?",
+        "asked_by": "Nebben Dico",
+        "answer": "There is no separate plan within this program.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I have done the labs yesterday. But 2nd one i attempted 3 times. At 3rd attempt I was able to solve it. where can i confirm the correctness of the labs",
+        "asked_by": "Bhavithra R",
+        "answer": "You can check your completions here https://googlecloud.qwiklabs.com/profile/activity",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is it only for me or everyone that Nikhil's voice is very low today? It seems like his mic has some issue.",
+        "asked_by": "Shiv Katira",
+        "answer": "Please rejoin",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "On the same note if Colossus is the file system under GCS and BQ, then why costing when it comes read from GCS are costly when compared to read from BQ directly? Can you elaborate on this if possible?",
+        "asked_by": "Vishal Bansal",
+        "answer": "Colossus is the underlying storage for both GCS and BigQuery, but they have different access methods and optimization. GCS is object storage, while BigQuery is a data warehouse optimized for querying.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "lets get started",
+        "asked_by": "Pavan Kumar R",
+        "answer": "Sure:)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Just to confirm, there were total 2 labs that were enabled from yesterday sessions. Right?",
+        "asked_by": "Rishabh Jain",
+        "answer": "hey, yes 2 will be activated today",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "this means I have passed the lab right?",
+        "asked_by": "Bhavithra R",
+        "answer": "Yes",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Dataflow created was in queued status for 20+ mins",
+        "asked_by": "Gangotri Madhukar Bhat",
+        "answer": "If the issue persists, please contact the Qwiklabs support channel (the ? in the top right).",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "unable to hear",
+        "asked_by": "Pavan Kumar R",
+        "answer": "Please reconnect",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I have already completed one of the lab from my personal email ID via other training programme, and currently I am using my work email, can I merge both the accounts?",
+        "asked_by": "Shiv Katira",
+        "answer": "noo, please use the one you registered this program",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Thank you team and Nikhil for wonderful session and that at too early in the morning ..",
+        "asked_by": "md ali mejar",
+        "answer": "thank you",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "taxirides name is allready prrsent.",
+        "asked_by": "Shubham S",
+        "answer": "Please check the project and dataset where the table is located.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Lab session have pre-defined excercise . Shall we use other data set to explore in detail ?",
+        "asked_by": "kethzi",
+        "answer": "If you do something different from the Lab instructions, your account may be blocked.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "When I enter the classroom link, it says access denied.",
+        "asked_by": "Su Myo Myo Myat",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "When i am trying to connect to your lab link, getting msg \"Sorry, access denied to this resource.\"",
+        "asked_by": "Shyam Kumar Sharma",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "But trainer mentioned something like validation and scores",
+        "asked_by": "Bhavithra R",
+        "answer": "You can check your completions here https://googlecloud.qwiklabs.com/profile/activity For now please check the completions here.",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how to enroll in lab? i went to this link and tried to take lab but saying \"sorry access denied\" https://www.cloudskillsboost.google/classrooms/24608",
+        "asked_by": "Novojit Das",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I completed lab 1 but where can I see the points or correctness of the lab apart from a green tick?",
+        "asked_by": "Janani Srinath",
+        "answer": "You can check your completions here https://googlecloud.qwiklabs.com/profile/activity",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How to enroll in this training? can't take the lab from link. saying access denied.",
+        "asked_by": "Novojit Das",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how to calculate query performance in big query?",
+        "asked_by": "Sanket Kale",
+        "answer": "- Query Plan: Analyze the detailed steps BigQuery takes to execute your query. - Query Statistics: Check metrics like total bytes processed, slot milliseconds, and query duration. - Profiling Tools: Use tools like BigQuery Profiler to visualize query performance and identify bottlenecks. - Benchmarking: Compare query performance under different conditions and workloads.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "When I paste the labs link, it says: Sorry access denied to this resource.",
+        "asked_by": "Arciman",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "We initially plan to use materialized view in our BigQuery but found out afterwards there is alot of limitation like couldn't do left, right and outer join. He discarded it totally. Will it get improve in future or any ways to overcome the limitation?",
+        "asked_by": "Elvis Lim",
+        "answer": "Materialized views are still under development. For now, consider using views or subqueries for complex joins.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi Team, Can i get yeasterday training session recording ?",
+        "asked_by": "Mahesh Kandrekula",
+        "answer": "This session is not being recorded.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Good Morning! Could we get slides followed yesterday's and Today's sessions to go through again.",
+        "asked_by": "Rabin Singh",
+        "answer": "https://www.cloudskillsboost.google/classrooms/24608/notes",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is the Stream applicable only for unstrutured data or also applicable for relational database?",
+        "asked_by": "Aziz Quazi",
+        "answer": "Stream can handle both structured and unstructured data. It's not limited to relational databases.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I have completed the first two labs, but how do I know I have successfully passed those labs?",
+        "asked_by": "saurabh bagul",
+        "answer": "You can check your completions here https://googlecloud.qwiklabs.com/profile/activity",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I can see the green tick mark on the lab but where can I check the score?",
+        "asked_by": "Utkarsh Prakash",
+        "answer": "You can check your completions here https://googlecloud.qwiklabs.com/profile/activity",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I see that some of my colleagues have more than 200 points. How did they do it?",
+        "asked_by": "Aashutosh Kumar Srivastva",
+        "answer": "The first two Labs are assessed only for completion and are not scored. Points are considered Skillsboosts activity points and are not directly related to this program.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Does Big Query have support for PL/SQL Stored Procedures, I have posted this a few times, can you please answer?",
+        "asked_by": "Mallikarjun Pasunkili",
+        "answer": "BigQuery doesn't support PL/SQL. It uses SQL-like syntax with its own extensions.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How long is the lab environment available?",
+        "asked_by": "Su Myo Myo Myat",
+        "answer": "Monday, August 19, 2024 5:00AM IST — Sunday, August 25, 2024 11:00PM IST",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "After completing Labs do we get the credits ?",
+        "asked_by": "TUSHAR YADAV",
+        "answer": "Hey once you complete a lab you will get some points/ credits",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Duration: 100.0% if this is the status, then is it means we have not completed it?",
+        "asked_by": "Bhavithra R",
+        "answer": "You will need to click on check my progress on the right side of the page. You will see a yellow box and once you click on that you will get this option and if it's 100/100 that means you have completed the lab successfully and you can end the lab after that,",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "yesterday you told that all the pdf and links are mailed to you i don't receive any please check it out",
+        "asked_by": "Aman Patni",
+        "answer": "Hey the PDF or the lecture notes can be find in the Google classroom",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "num_trips is a column rite?",
+        "asked_by": "Aditya Kumar Singh",
+        "answer": "Yes, it is a column in the dataset.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "do this live class is enough to complete lab",
+        "asked_by": "mukesh prajapati",
+        "answer": "Sure!",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is numbikes.model is custom model ? as we might have data not related to trips as well ? thanks",
+        "asked_by": "Shiladatya M",
+        "answer": "Yes, numbikes.model is a custom model trained on user data.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Till how much time access to these ppts will be available, will it be accessible after 25th",
+        "asked_by": "Abhishek Bomble",
+        "answer": "Yes",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Thanks for info on Stored Procedure support",
+        "asked_by": "Mallikarjun Pasunkili",
+        "answer": ":)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "check my progress on the right side of the page. Not finding this, pls provide url",
+        "asked_by": "Bhavithra R",
+        "answer": "I didn't understand the question. Here is the pdf link for the current module: https://www.cloudskillsboost.google/classrooms/24608/notes/4745010",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "please explain the parameter again please!",
+        "asked_by": "Mudassir Kamran",
+        "answer": "Parameters are values that ML models learn from data to make predictions. Think of them as knobs you adjust to fine-tune the model's behavior.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is deff between parameter and hyperparameter",
+        "asked_by": "akshay rathod",
+        "answer": "Parameters are learned by the model during training, while hyperparameters are set before training starts.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "ok. thanks.",
+        "asked_by": "kethzi",
+        "answer": ":)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can I still have a chance to do yesterday labs as I haven't done it yet?",
+        "asked_by": "Su Myo Myo Myat",
+        "answer": "Each Lab can be attempted up to 3 times, and the available periods are as follows: Monday, August 19, 2024 5:00AM IST ~ Sunday, August 25, 2024 11:00PM IST",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I am referring to this answer. where do we find this my progress on the right side.. pls provide utl",
+        "asked_by": "Bhavithra R",
+        "answer": "In the case of Labs where scores are measured, a tab will appear on the right side where you can check the progress details. It is normal that we do not see Labs that have been assigned scores yet. Up until now, we have only been assigned Labs that record whether or not they have been completed.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Diference between Supervised and unsupervised models",
+        "asked_by": "Rafeek Biradar",
+        "answer": "Supervised models learn from labeled data, while unsupervised models learn from unlabeled data.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "explain the hyperparameter",
+        "asked_by": "Sanket Kale",
+        "answer": "Hyperparameters control the learning process of a model, like learning rate or the number of layers. You tune them to optimize performance. These parameters are set before training.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "So the model will be able to segregate the data into different clusters as mentioned on its own rite.. by identifying the pattern by itself",
+        "asked_by": "Aditya Kumar Singh",
+        "answer": "If you are talking about clustering, then you are correct.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Are these models Logistic / Linear is SQL / Python language?",
+        "asked_by": "Aziz Quazi",
+        "answer": "Both Logistic and Linear Regression can be implemented in SQL and Python.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How Reinforcement learning different from Supervised and Unsupervised learning?",
+        "asked_by": "Vishnu Kulkarni",
+        "answer": "Reinforcement learning learns through trial and error, while supervised learning learns from labeled data and unsupervised learning learns from unlabeled data.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can you also please share the form link which we need to fill after labs completion?",
+        "asked_by": "Vaishnav Suguru",
+        "answer": "https://docs.google.com/forms/d/e/1FAIpQLSc1kNp-LgFbSQ7AO4iRMbXWRO4xjLv8AnYXE5iXNQW1HC0T_g/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "ou will need to click on check my progress on the right side of the page. You will see a yellow box and once you click on that you will get this option and if it's 100/100 that means you have completed the lab successfully and you can end the lab after that,",
+        "asked_by": "Bhavithra R",
+        "answer": "Correct",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is difference between bigquery and bigquery api",
+        "asked_by": "Vetsa Sri Bhargav",
+        "answer": "BigQuery is a data warehouse. BigQuery API is a way to interact with BigQuery programmatically.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "i got the mail upon completion of lab i got these benefits where cam i found these Exam guide review sessions with trainers (6 x 1.5 hours) - Get expert help! Mentor and arcade sessions (3 x 1 hour each) - Learn from pros and have some fun! 10-week structured learning program - Deepen your knowledge 10-week Google Cloud Skills Boost access - Level up your skills! Certification exam voucher (under conditions mentioned in the Journey Roadmap linked during the registration process )",
+        "asked_by": "Aman Patni",
+        "answer": "What you mentioned are the contents of Stage 2.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi Hwan",
+        "asked_by": "Mahammadirfan Machapur",
+        "answer": "HI",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "ok thankyou Hwan-Tae Kim",
+        "asked_by": "Aman Patni",
+        "answer": ":)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Last week I have reported through the Google Form an access issue I'm facing with my cloudskillsboost account. Today I reported it again because I still can't access to the labs or the lecture docs. Can someone address my issue.",
+        "asked_by": "Marcel",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses. You can fill out this form with your doubts and queries. You will get a response from our team in 24 hours. https://forms.gle/zj5ikE3EqcqUCduz5",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How do we test out ML models? is there any automated way? or recommended libraries for ML model testing?",
+        "asked_by": "Priyan",
+        "answer": "GCP provides various tools and platforms for automated ML model testing. - Vertex AI: This platform offers built-in capabilities for model evaluation, including metrics tracking and hyperparameter tuning. - TensorFlow Extended (TFX): For more customized pipelines, TFX provides components for data validation, training, evaluation, and serving. - Kubeflow: This open-source platform extends Kubernetes for machine learning workloads, offering tools for experiment tracking and model deployment.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "from whee I can access lab ?",
+        "asked_by": "Lalit Mohan Tewari",
+        "answer": "https://www.cloudskillsboost.google/classrooms/24608",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is hyperparameter ??",
+        "asked_by": "Aditya Kumar Singh",
+        "answer": "A hyperparameter is a setting that controls the learning process of a machine learning model. Unlike parameters, which are learned from the data, hyperparameters are set before training. Think of them as dials on a machine that you adjust to get the best performance. Examples include learning rate, number of hidden layers, and regularization strength.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi, I've registered through this email and registered to the https://www.cloudskillsboost.google/ account using the same email but I don't see any Labs activated or I don't see any tab to access any lab. I have use https://www.cloudskillsboost.google/classrooms/24608 this link shared in this chat, but I dont see anything activated for me. Please check this",
+        "asked_by": "Lishara",
+        "answer": "I can see that 2 labs were activated yesterday and rest 2 will be activated today after the session. Please access this link once again :",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I've completed 2 labs but still i can't see any points/credits in my profile it takes time ?",
+        "asked_by": "TUSHAR YADAV",
+        "answer": "That's normal, in this case there is no separate score displayed other than whether it is completed or not.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "minimum data set size to perform machine learning?",
+        "asked_by": "Manoj S",
+        "answer": "No minimum size, but more data generally leads to better model accuracy.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is the diffrence in training and validation",
+        "asked_by": "mayank",
+        "answer": "Training data teaches the model, validation data assesses its performance on unseen data. For example, Validation Data is used for 'early stopping'.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is difference between data engineering and feature engineering?",
+        "asked_by": "Riya Bankar",
+        "answer": "Data engineering focuses on building and maintaining data pipelines, while feature engineering transforms raw data into features for machine learning models.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "if the two labs session for today will be enabled, then will I be able to see the grey warning icon removed and white circle icon will be visible ?",
+        "asked_by": "Priyan",
+        "answer": "Yes, the remaining two labs will be activated immediately after the session ends.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "big query also a model ?",
+        "asked_by": "akshay rathod",
+        "answer": "BigQuery is a data warehouse, not a machine learning model. It stores and analyzes data, which can be used to train models.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How BQ picks the 10% records for Validation and test respectively? Does it pick records randomly?",
+        "asked_by": "Rishabh Jain",
+        "answer": "BQ typically selects 10% of the data for validation and testing randomly. This ensures that the model is evaluated on a dataset it hasn't seen during training, providing an unbiased assessment of its performance. Random selection prevents any biases that might arise from systematic sampling.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is overfitng in ml model",
+        "asked_by": "akshay rathod",
+        "answer": "Overfitting occurs when a model learns the training data too well, leading to poor performance on new, unseen data.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is the industry accuracy target of the models?",
+        "asked_by": "Manoj S",
+        "answer": "Accuracy targets vary by industry & use case. There's no one-size-fits-all answer. Focus on achieving meaningful business outcomes.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is ML used for in SQL?",
+        "asked_by": "Devansh sharma",
+        "answer": "ML in SQL is used to build predictive models directly within your SQL queries, making data analysis more efficient. For supported model types, see https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-create#model_type",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "or is there any consideration for outliers, or evenly distributed data, for picking the 10% data for validation and test of the ML model",
+        "asked_by": "Rishabh Jain",
+        "answer": "Ensure your validation and test sets represent the full data distribution, including outliers, for accurate model evaluation. BigQuery does not support automated functionality for this part.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How do you tweak the model if you're not happy with the evaluated accuracy?",
+        "asked_by": "Arjun Prakash",
+        "answer": "You can adjust hyperparameters like learning rate, max iterations, and regularization strength to improve model accuracy. In other words, in addition to the automation options, some degree of hyperparameter setting is possible.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How can accuracy be increased by reiterating or using a new model?",
+        "asked_by": "Manoj S",
+        "answer": "You can improve accuracy by tuning hyperparameters, using a different model type, or adding more data to your dataset.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is cross validation (testing model with different sets of test data) possible in Big Query ML ?",
+        "asked_by": "Shrisha",
+        "answer": "BigQuery ML doesn't have built-in cross-validation. You can achieve it by manually splitting your data and training/evaluating models separately.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "is bigquerry ML can calculate GINI index for evaluate ?",
+        "asked_by": "indra yoga sara",
+        "answer": "Yes, BigQuery ML can calculate the GINI index for model evaluation. It's included in the model's evaluation metrics.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can we use Python insead of SQL in big query?",
+        "asked_by": "Shiv Katira",
+        "answer": "Yes, you can use Python with BigQuery ML using the bigquery library. It provides a Python API for interacting with BigQuery.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "sir how to check model accurecy",
+        "asked_by": "akshay rathod",
+        "answer": "Use ML.EVALUATE to assess model accuracy. It provides metrics like precision, recall, and F1-score.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Lets think about a situation I have already build a ML model in my local computer. How can I rub=n that in BQ VM?",
+        "asked_by": "Amlan Dutta",
+        "answer": "You can import and use models created externally, such as TensorFlow, into BigQuery. https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-create-tensorflow",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "When I try to click yesterday's labs It says \"Sorry, access denied to this resource\"",
+        "asked_by": "Lishara",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi, I got a colleague also applying to this course but he didn't get invited to this training. Can you all add his to the trianing?",
+        "asked_by": "Elvis Lim",
+        "answer": "hey the registration are now closed",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Where we can see the score after submitting",
+        "asked_by": "Rafeek Biradar",
+        "answer": "In these Labs, the system does not check the Score, but only checks whether it is completed.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is the meaning of buy on return?",
+        "asked_by": "Dhruv",
+        "answer": "This refers to whether or not a visitor purchases something after their first visit.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "During registration, I provided my corporate email. I tried accessing the labs using this \"https://www.cloudskillsboost.google/classrooms/24608\", but it asks me to sign in. My corporate email does not have a Google account, and I am unable to register. Can you please tell me how I can access the labs?",
+        "asked_by": "Mahammadirfan Machapur",
+        "answer": "hey please use the registered email address only to access. You can fill out this form with your doubts and queries. You will get a response from our team in 24 hours. https://forms.gle/zj5ikE3EqcqUCduz5",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I am not getting any yellow box on lab page, but a right tick under the activities please help.",
+        "asked_by": "Mudassir Kamran",
+        "answer": "It is normal for the yellow tab not to appear because the currently activated Lab only checks whether it is completed without scoring.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Once the model and results are created how can i send it back to ga4 and use it for AB testing ?",
+        "asked_by": "Meer Ibad",
+        "answer": "BigQuery models can't directly send results to GA4. For example, use BigQuery ML to create a model, then export predictions to a table. Then, use a tool like Dataflow to send the predictions to GA4.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Running a model on BQ VM is chargeable. So why as a user I choose BQ VM instead of my local ML server.",
+        "asked_by": "Amlan Dutta",
+        "answer": "BQ ML offers scalability, cost-effectiveness for large datasets, and integration with BigQuery for data analysis, making it ideal for production-ready models.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is difference between bounces and timespend on website",
+        "asked_by": "om narayan Sharma",
+        "answer": "Bounces are single-page visits, while time spent measures the duration of a user's session on your website. See GA column definitions: https://support.google.com/analytics/answer/3437719?hl=en",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "hi, in stage 1 it is combination of data engineering and machine learning course after qualifying stage 1 then we can choose course D.E or M.L ?",
+        "asked_by": "Malle Latha",
+        "answer": "You will be aligned to the Course which you choose at then start of the enrollment",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "my status is showing as 'waitlist' in get certified page. when will that change...",
+        "asked_by": "Mathimanirangan",
+        "answer": "As you are now in the ILT session you have nothing to be worried about being in wait-list as you are already in Get Cert now",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "As time goes by, the features used will definitely shift, how to we know that the feature between trainig and productionize is not shifting ?",
+        "asked_by": "indra yoga sara",
+        "answer": "Use Vertex AI's monitoring to track feature distributions and detect changes. This helps ensure consistent model performance. https://cloud.google.com/vertex-ai/docs/model-monitoring/overview",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I am not getting any yellow box on lab page, please help.",
+        "asked_by": "Mudassir Kamran",
+        "answer": "Once you start the lab you should see the yellow box on the right side of the page '",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "so if we use bq ml, we must pay additional cost rite?",
+        "asked_by": "Hilmi Taufiqurohman",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can we use multiple labels?",
+        "asked_by": "Shiv Katira",
+        "answer": "It might be possible if the model type allows multiple labels, but I don't think any of the common model types I know of have this.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Once we know in ML model in details so that we can able to choose ML model for DA?",
+        "asked_by": "kethzi",
+        "answer": "Understanding model details like accuracy, bias, and computational cost helps you choose the best model for your data analysis needs.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "So SQL would be the most used languange?",
+        "asked_by": "Daffa Pramatha Ramadhan",
+        "answer": "SQL is widely used for querying data in BigQuery, but Python is essential for data manipulation and machine learning tasks.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can we add multiple labels?",
+        "asked_by": "Shiv Katira",
+        "answer": "I don't know what case requires multiple labels. If you mean multi-class classification, then of course it is supported.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "After submitting where to see the results",
+        "asked_by": "Rafeek Biradar",
+        "answer": "hey we will reach out to you once qualified",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "DO WE NEED TO PAY FOR THIS LAB PRACTICE ALSO DATA ALSO??",
+        "asked_by": "sakshi",
+        "answer": "The lab environment for this course is free.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Yes Damini, I've used the same email. The corporate mail, where I receive all the mails from Jellyfish.",
+        "asked_by": "Lishara",
+        "answer": "ok You can fill out this form with your doubts and queries. You will get a response from our team in 24 hours. https://forms.gle/zj5ikE3EqcqUCduz5",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is label is set based on SQL query result (same exp which currently Nikhil is running)",
+        "asked_by": "Rabin Singh",
+        "answer": "Yes, that's right.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can I please know the support team's email address? in case I have an issue to be sorted out such as locked account etc?",
+        "asked_by": "Priyan",
+        "answer": "You can fill out this form with your doubts and queries. You will get a response from our team in 24 hours. https://forms.gle/zj5ikE3EqcqUCduz5",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "label is set based on SQL query result (same example which currently Nikhil is running)?",
+        "asked_by": "Rabin Singh",
+        "answer": "Yes, that's right.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "https://www.cloudskillsboost.google/classrooms/24608/notes Upon accessing this link I'am getting this error \"Sorry, access denied to this resource. \"",
+        "asked_by": "Talha Khan",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "So basically if we have BigQuery for Data warehousing in our Org.. and we use it on daily basis for Analysis purposes.. so the compute changes encoured there is similar to the charges encoured via bigqueryML ??",
+        "asked_by": "Aditya Kumar Singh",
+        "answer": "BigQuery ML uses BigQuery's compute resources, so charges are similar. You'll be billed for both query processing and model training/prediction.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "On what objectives or features you decide it should be which regression and classification to be used?",
+        "asked_by": "Maithri Hebbar",
+        "answer": "Choose based on the target variable type (continuous for regression, categorical for classification) and the desired outcome (prediction, clustering, etc.).",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "or will we notice a spike in the costing?",
+        "asked_by": "Aditya Kumar Singh",
+        "answer": "Yes, you'll see cost increases based on resource usage. Monitor your Cloud Billing to track spending.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "https://www.cloudskillsboost.google/classrooms/24608/notes Upon accessing this link I'am getting this error \"Sorry, access denied to this resource.\"",
+        "asked_by": "Talha Khan",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I am loged in from my personal email as my work email does not have access to this links",
+        "asked_by": "Talha Khan",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can we get this sample code on screen to review & practice on our end ?",
+        "asked_by": "Rishabh Gupta",
+        "answer": "All demo content is included in the Lab Manual, which becomes active after the session ends.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "What kind of activities does the ML engineer when compared to that of a Data Scientist?",
+        "asked_by": "karthik",
+        "answer": "ML engineers focus on building and deploying ML models, while data scientists focus on data analysis, feature engineering, and model selection.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I finished 2 labs yesterday. It wasn't showing the progress yesterday. How to verify it now?",
+        "asked_by": "Raja Mohamed",
+        "answer": "You can check your completions here https://googlecloud.qwiklabs.com/profile/activity",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "What does it mean?",
+        "asked_by": "Raja Mohamed",
+        "answer": "?",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I checked the profile activity now, it shows duration of my lab is 100.0%, so what does it mean?",
+        "asked_by": "Raja Mohamed",
+        "answer": "If the last column, Passed, is checked, you are done. The other columns are for reference only.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "will the script used will be shared to us?",
+        "asked_by": "Ramil Santiago",
+        "answer": "Hey, The Lecture Notes(pdf) and Lab Manual provided, provide additional detailed explanations. The slides will be available to you after the session in your classroom under my learning",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "In the first model, how was the accuracy 98% while ROC was only 72%?",
+        "asked_by": "Arjun Prakash",
+        "answer": "In this lab, roc_auc is an indicator for model evaluation, and the first model got 0.724588, and the second model got 0.910382. The closer it is to 1, the better the performance.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is there a way to rollback (unlearn) the training for a model? Or do we need to always create a new model to evaluate on the same dataset?",
+        "asked_by": "Abhishek Jha",
+        "answer": "No rollback option in BigQuery ML. To evaluate on the same dataset, you'll need to create a new model.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "What is the accuracy for a model to be accepted? Or when it can be used in real life?",
+        "asked_by": "Dhruv",
+        "answer": "There's no universal accuracy threshold. It depends on your specific use case and business requirements. Focus on evaluating model performance with metrics relevant to your goals.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How to set the treshold for probability, like predict label as 1 only when probability is > 0.8",
+        "asked_by": "Shrisha",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How do we add that probablity parameter to segment users above 80% prob to be assigned ?",
+        "asked_by": "Meer Ibad",
+        "answer": "Use the THRESHOLD option in your CREATE MODEL statement. Set it to 0.8 for a probability threshold of 80%.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "in documentation, https://cloud.google.com/bigquery/pricing#bqml the pricing is $312.5/Tib, but in calculator https://cloud.google.com/products/calculator/estimate-preview/dd988f0f-8a9a-45ef-b662-75548cf534be?_gl=1*ueak1a*_up*MQ..&gclid=Cj0KCQjw2ou2BhCCARIsANAwM2GzB9_Lq5BJQVKIkGFWspiC3kD-ums8xLJ15Vb0_edroDv3seW2--4aAq8eEALw_wcB&gclsrc=aw.ds&hl=en it was $31.25/TiB. is it some typo or something?",
+        "asked_by": "Hilmi Taufiqurohman",
+        "answer": "Its 312.5$ per Tb of data",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I have Completed Skill Badges of these concepts, Where the queries has been given based on the requirements, I just Copy and Paste and analyze.Does Google trains for introducing in Developing user experience at GCP and I Cannot Deviate Other than Lab Instructions. Is it any way to training Self there without using Credit Card?",
+        "asked_by": "Harish K",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "My Official email address does not allow me to loged in out of my work system and google is blocked on my work systed as I'm in amazon",
+        "asked_by": "Talha Khan",
+        "answer": "hey You can fill out this form with your doubts and queries. You will get a response from our team in 24 hours. https://forms.gle/zj5ikE3EqcqUCduz5",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Do we only get one attempt per lab ?",
+        "asked_by": "Abhishek Kaul",
+        "answer": "hey yes you attempt a lab limited time only",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I was visiting the following link but got error Sorry, access denied to this resource. - https://www.cloudskillsboost.google/ilt/classrooms/24608/focuses/212748",
+        "asked_by": "Shubham Tiwari",
+        "answer": "Please fill this form : https://docs.google.com/forms/d/e/1FAIpQLSdkn008fjBwhm_xO5Hj8kpWuxfL7qTa6Umj0noxa-WCWOUjig/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Do we have to fill any form after the completion of the lab?",
+        "asked_by": "Rakshana Bhaskaran",
+        "answer": "https://docs.google.com/forms/d/e/1FAIpQLSc1kNp-LgFbSQ7AO4iRMbXWRO4xjLv8AnYXE5iXNQW1HC0T_g/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "DO we need to fill any form after completion of the 3 labs to qualify for satge 2",
+        "asked_by": "Jayashree",
+        "answer": "https://docs.google.com/forms/d/e/1FAIpQLSc1kNp-LgFbSQ7AO4iRMbXWRO4xjLv8AnYXE5iXNQW1HC0T_g/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "do we need to submit a special form once we completed the labs?",
+        "asked_by": "naresh",
+        "answer": "hey you need to fill out a lab completing that will be shared with you today over email",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "If I have any doubts during the lab, is there any option to reach to someone for help ?",
+        "asked_by": "Abhishek Kaul",
+        "answer": "you can reach out to lab support",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How long will we have access to these notes?",
+        "asked_by": "Talha Khan",
+        "answer": "Till 25th August, 2024",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Does AUtoML also take care of feature engineering too?",
+        "asked_by": "Pratul",
+        "answer": "AutoML can automate some feature engineering, but it's best to provide well-engineered features for optimal results.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "What are the factors to choose ML model?",
+        "asked_by": "venkatesh",
+        "answer": "Consider data type, size, desired accuracy, and speed. AutoML recommends the best model based on your dataset.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "can not hear Nikhil",
+        "asked_by": "Aditya Kumar Singh",
+        "answer": "Please rejoin",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Give me a Query to find the Query from Joby History using the information schema or metadata within bq, the query that contains \"CREATE MODEL\"",
+        "asked_by": "Suraj P B",
+        "answer": "I haven't tested it, but it would probably look like this: SELECT job_id, creation_time, query FROM `PROJECT_ID`.`region-REGION_NAME`.INFORMATION_SCHEMA.JOBS WHERE statement_type = 'CREATE_MODEL' AND query LIKE '%CREATE MODEL%' ORDER BY creation_time DESC;",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can BigQuery ML detect data drift?",
+        "asked_by": "Priyam",
+        "answer": "BigQuery ML does not have built-in drift detection capabilities. To monitor model performance over time, you must use other tools or custom code. For example, you can deploy your model to Vertex AI and use model monitoring.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "The slides that are there in lecture notes, will they be visible only till 25th aug?",
+        "asked_by": "RITABRATA SAHA",
+        "answer": "Slide notes are available for download for 2 years",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I joined a bit late to this session and did not attend yesterday's session, can anyone please help me get the background on what is the path and content of this course?",
+        "asked_by": "Manan Kotak",
+        "answer": "Please see the lecture notes included with the explanation. https://www.cloudskillsboost.google/classrooms/24608/notes",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "please share the link for the Labs",
+        "asked_by": "Harsh",
+        "answer": "Labs are currently unavailable as they are activated immediately after the end of the training session. https://www.cloudskillsboost.google/classrooms/24608",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "hi today is my first session..how to get recordings and slides",
+        "asked_by": "adina",
+        "answer": "Hey this session is not recorded and you can check the lecture notes here : https://www.cloudskillsboost.google/classrooms/24608",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can you please send the link to download these slides?",
+        "asked_by": "Lovepreet Singh",
+        "answer": "https://www.cloudskillsboost.google/classrooms/24608 : check the lecture notes here",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Thanks Hwan Tae Kim",
+        "asked_by": "Lovepreet Singh",
+        "answer": "Yw:)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "For AutoML do we have to map our features with ndustry standard features?",
+        "asked_by": "Pratul",
+        "answer": "No, AutoML handles feature engineering automatically. You provide your data, and it learns the best features for your task.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Thank you, could I please get a recording of yesterday's session?",
+        "asked_by": "Manan Kotak",
+        "answer": "This session is not being recorded.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Okay, thanks",
+        "asked_by": "Manan Kotak",
+        "answer": ":)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "If we can increase perforamance we can add more features",
+        "asked_by": "Rafeek Biradar",
+        "answer": "Adding more features can sometimes improve AutoML performance, but it's not guaranteed. Feature selection and engineering are crucial for optimal results.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is There any sections available on youtube or any cloud ?",
+        "asked_by": "Nagsen Khotkar",
+        "answer": "If you search by course name, you will get some results, but please note that some of the content may not be up to date.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how to access recodings and course content",
+        "asked_by": "adina",
+        "answer": "The session is not being recorded. The lecture notes pdf is available for download for 2 years at this link: https://www.cloudskillsboost.google/classrooms/24608/notes",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Current course and lab progress are with my work email. But I still have some learning progress in a learning path with my own email account. Can I combine this or change email?",
+        "asked_by": "Sai Htoo Kyaw",
+        "answer": "hey, the email IDs can not be combined or your progress cant be migrated . please use your official email address",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Do we have hands on example on vertex AI workbench?",
+        "asked_by": "Krushna Sawne",
+        "answer": "https://www.cloudskillsboost.google/catalog?format%5B%5D=labs&keywords=vertex+AI+workbench&language%5B%5D=en&locale=en&skill-badge%5B%5D=any",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is vertex AI",
+        "asked_by": "Kavita Meher",
+        "answer": "Vertex AI is a managed machine learning service on Google Cloud Platform. It simplifies building, deploying, and managing ML models.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Vertex AL is it like Virtual machine",
+        "asked_by": "Rafeek Biradar",
+        "answer": "Vertex AI is a managed service, not a VM. It provides tools and infrastructure for ML, simplifying development and deployment.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "vertex AI is paid service. Is there a way to continue practicing it after the course ends ??",
+        "asked_by": "Pranay Paul",
+        "answer": "Yes, you can use the free tier of Vertex AI for practice. It provides a limited amount of resources for free.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "after completing the classroom session and completing the labs 3 / 4 when will we get the voucher or there are other sessions after that as well",
+        "asked_by": "sailaja prasad mohanty",
+        "answer": "You will shared more information once you qualify for stage 2",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Anybody who completed 3/4 labs within 25th are selected to the second stage or the selection is based on first come first serve?",
+        "asked_by": "Rakshana Bhaskaran",
+        "answer": "No its not on the first serve basis. Only criteria to qualify is to complete the mandate labs in the time frame.",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how we can understand that we have successfully completed the lab. i complete Bigquery lab but no credit point credit. is it expected",
+        "asked_by": "Anushree Srivastava",
+        "answer": "If the last column, Passed, is checked, you are done. The other columns are for reference only.",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how can we understand that we have successfully completed the lab, i complete Big query lab but no credit points credits. is it expected?",
+        "asked_by": "Anushree Srivastava",
+        "answer": "It's normal. If the last Passed column is checked in the following link, it means you're done. https://www.cloudskillsboost.google/profile/activity",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Does Vertex AI supports model versions?",
+        "asked_by": "Pratul",
+        "answer": "Yes, Vertex AI supports model versions for tracking and managing different iterations of your models.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Data Analyst how much need ML",
+        "asked_by": "Rafeek Biradar",
+        "answer": "Data analysts benefit from ML for insights, automation, and predictive modeling. It's not essential, but enhances skills.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "if i have a pickle that saves a model, can the pickle applicant to bigquery as a model ?",
+        "asked_by": "indra yoga sara",
+        "answer": "You can import various types of models in BigQuery ML. For example, see the following link: https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-create-tensorflow",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "when can i choose the profession data engineering or professional machine learning engineering course?",
+        "asked_by": "Vignesh M",
+        "answer": "Choose Data Engineering if you want to build data pipelines and infrastructure. Choose Machine Learning Engineering if you want to build and deploy ML models.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "i have opted for professional data engineering certification path. Is it possible to switch over to take the path of professional machine learning engineer certification path?",
+        "asked_by": "Vignesh M",
+        "answer": "I'm a technical answerer, but I'll give you my personal opinion: If you're not an ML expert yet, I recommend learning data engineering first. It's more efficient to learn.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "whats the last date to complete all labs i have completed 2, 3 of the labs are locked do we have to fill any form after completing labs",
+        "asked_by": "Atharva",
+        "answer": "deadline is 25th august. the other 2 labs will be activated today after the session. you have to fill out a lab completion form that will be shared with you over email",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is time frame to complete labs",
+        "asked_by": "Atharva",
+        "answer": "25th august is the deadline",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "time frame to complete labs",
+        "asked_by": "Atharva",
+        "answer": "hey 25th Feb is the deadline",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How to know which certification path I have selected?",
+        "asked_by": "Rakshana Bhaskaran",
+        "answer": "https://cloud.google.com/learn?hl=en",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "will join back in sometime..",
+        "asked_by": "Aditya Kumar Singh",
+        "answer": "No worries.",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "based on actual vs predicted values?",
+        "asked_by": "Rabin Singh",
+        "answer": "Yes, for confusion metrics, please see the following link: https://en.wikipedia.org/wiki/Confusion_matrix",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How to define/determine row and columns in confusion matrix?",
+        "asked_by": "Rabin Singh",
+        "answer": "Rows represent actual classes, columns represent predicted classes.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is difference between type 1 error and type 2 error",
+        "asked_by": "Aman Patni",
+        "answer": "Type 1 error: False positive (rejecting a true hypothesis). Type 2 error: False negative (accepting a false hypothesis).",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can you please share the lab link...",
+        "asked_by": "Nithya bai",
+        "answer": "https://www.cloudskillsboost.google/classrooms/24608 Labs become active after the session ends.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "unable to hear voice",
+        "asked_by": "Abhishek Upadhyay",
+        "answer": "Please rejoin",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I do not see anything in the Activities tab of my profile which can access the lab?",
+        "asked_by": "Erna",
+        "answer": "hey, you can click on the link to access the labs http://googlecloud.qwiklabs.com",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is it mandatory to attend full session to get certified? or we can directly proceed with labs?",
+        "asked_by": "Shiv Katira",
+        "answer": "hey if you can not attend the full session its okay you can complete the mandatory labs",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I don't see my choose certification under cloud.google.com/learn , rather it provides me to do certification to boost career . If possible share the navigation.",
+        "asked_by": "Shiladatya M",
+        "answer": "Please fill this form and our team will assist you further: https://docs.google.com/forms/d/e/1FAIpQLSdkn008fjBwhm_xO5Hj8kpWuxfL7qTa6Umj0noxa-WCWOUjig/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how to verify what certification I have choosen for this program?",
+        "asked_by": "Jayashree",
+        "answer": "Fill this form : https://docs.google.com/forms/d/e/1FAIpQLSdkn008fjBwhm_xO5Hj8kpWuxfL7qTa6Umj0noxa-WCWOUjig/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "https://cloud.google.com/learn?hl=en this link not show which course i enrolled in",
+        "asked_by": "Aman Patni",
+        "answer": "This link covers the entire Google Cloud learning path. What are you looking for specifically? Do you need the following types of information? https://www.cloudskillsboost.google/paths?locale=en",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "any math behind ml model",
+        "asked_by": "akshay rathod",
+        "answer": "ML models use math like linear algebra, calculus, and statistics to learn patterns from data. https://www.reddit.com/r/learnmachinelearning/comments/13g0s7h/what_is_the_math_behind_machine_learning_and_an_ai/?rdt=57801",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Will we get details about math behind ML models during stage 2?",
+        "asked_by": "Abhishek Bomble",
+        "answer": "No, we don't cover the detailed math involved. You won't learn the detailed engine assembly stuff while you're preparing for your driver's license.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi, Is there a way to download the entire 'Lecture Notes' as a sinle pdf?",
+        "asked_by": "Arun Painuly",
+        "answer": "Yes, please download this course module by module.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Why we do not have clusterin as an option in tabular?",
+        "asked_by": "Shiv Katira",
+        "answer": "AutoML Tabular focuses on classification and regression tasks, not clustering. Clustering requires different algorithms and model types.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "What happens if you add another file? Will it merge them?",
+        "asked_by": "Arjun Prakash",
+        "answer": "You can use multiple files for tabular data in Vertex AI AutoML.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can we change Personal email id now?",
+        "asked_by": "Prachi Kshirsagar",
+        "answer": "hey you can change your email in stage 2.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "What is happening in background while using vertex AI ? On which language it is built on?",
+        "asked_by": "Nitin Parwani",
+        "answer": "Vertex AI AutoML automates the process of building machine learning models. Behind the scenes, it optimizes hyperparameters, selects appropriate algorithms, and engineers features. While it's a Google Cloud product, the specific programming languages used internally can vary based on the task and the latest advancements in ML research. However, popular choices often include Python due to its rich ML ecosystem and C++ for performance-critical components.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "The certification path is only accessible with own gmail. Can't open with the work mail which is currently joining this course. Is it ok?",
+        "asked_by": "Sai Htoo Kyaw",
+        "answer": "Please fill this form : https://docs.google.com/forms/d/e/1FAIpQLSdkn008fjBwhm_xO5Hj8kpWuxfL7qTa6Umj0noxa-WCWOUjig/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is lineage",
+        "asked_by": "Jayashree",
+        "answer": "Lineage in Vertex AI AutoML tracks the data and model versions used in training and prediction, providing transparency and reproducibility.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I meesed yesterday's session. Is there a recording available please?",
+        "asked_by": "Amit Garg",
+        "answer": "Hey, The first session is not recorded. The important thing is to complete the required labs to go to the 2nd stage of the Program. Please make sure you created the account and complete the required number of labs. You can check your completions here https://googlecloud.qwiklabs.com/profile/activity",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Please share the course handouts for partices end off program",
+        "asked_by": "A Rama Chandra Sarma",
+        "answer": "See the lecture notes pdf file with explanations at the following link: https://www.cloudskillsboost.google/classrooms/24608/notes",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Will this training process be complete within the time limit of 1 hour of the labs?",
+        "asked_by": "Shiv Katira",
+        "answer": "Hey, yes the labs don't take much time",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How to register this model we are just creating, so that it can be consumed from BigQuery?",
+        "asked_by": "Pratul",
+        "answer": "To register a custom-trained model in Vertex AI for BigQuery usage: 1. Create a Vertex AI Model Registry: This serves as a central repository for your models. 2. Upload your trained model: This includes the model artifacts and metadata. 3. Tag the model: Assign appropriate tags for easy search and filtering. 4. Create a BigQuery ML model: Use the CREATE MODEL statement, specifying the Vertex AI model ID.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I was not able to attend the session due to meetings at work. Will I be considered for the next round if I complete the labs on my own and what are the deadlines for the submission for the labs?",
+        "asked_by": "Me",
+        "answer": "Hey, yes you can complete the labs by 25th august to qualify for stage 2",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "can you explain pricing for this",
+        "asked_by": "Mohammad Talha",
+        "answer": "https://cloud.google.com/vertex-ai/pricing",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Its always Gray area and hard to judge how much billing will come when used this service",
+        "asked_by": "Mohammad Talha",
+        "answer": "There are several factors that determine the price, so please refer to the link provided in the previous line.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Got it. And Do the labs follow similar structure to cloud skill boost labs like we have to replicate a certain steps to complete the objective?",
+        "asked_by": "Me",
+        "answer": "It is essentially the same as cloud skill boost labs.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is it necessary to conduct labs in order?",
+        "asked_by": "Rehan Ahmed",
+        "answer": "No, the order doesn't matter.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "can i watch the recording for yesterday?",
+        "asked_by": "Amos Fang",
+        "answer": "This session was not recorded.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Alright. These are the 4 of the labs that are necessary, right?",
+        "asked_by": "Me",
+        "answer": "Yes",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "https://www.cloudskillsboost.google/classrooms/24608",
+        "asked_by": "Me",
+        "answer": "Yes",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Alright, thank you very much :)",
+        "asked_by": "Me",
+        "answer": ":)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "can i do lab test in mobile or computer required??",
+        "asked_by": "joshwa franclin",
+        "answer": "We recommend using PC",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "getting 404 error for the links shared on screen now",
+        "asked_by": "Shiladatya M",
+        "answer": "https://cloud.google.com/learn/training/data-engineering-and-analytics https://cloud.google.com/learn/training/machinelearning-ai",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "can we change from data engg path to machine learning path?",
+        "asked_by": "Bhavithra R",
+        "answer": "Hey you can not change the track now",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How much time will be required to get compleate certification in jand in general can you please tell, or tell the date ?",
+        "asked_by": "Nagsen Khotkar",
+        "answer": "hey, everything will be shared with you once you qualify for stage 2",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Where can I find the list of all the required labs that need to be completed?",
+        "asked_by": "Putri",
+        "answer": "Use this link to access: https://www.cloudskillsboost.google/classrooms/24608",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I am taking Data Engineer now. Can I rejoin the next edition and take the Machine Learning Engg certification?",
+        "asked_by": "Clinton",
+        "answer": "Hey, you can enroll for the next edition",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "would you please able to explain the role of kubeflow within vertex ai?",
+        "asked_by": "Janani Srinath",
+        "answer": "Kubeflow is used to biuild ML pipelines outside of gcp as well, but Vertex AI offers Vertex pipelines which is a managed service for Kubeflow",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what if one doesn't clear for stage 2 , its direct elimination from the program ?",
+        "asked_by": "Shiladatya M",
+        "answer": "Yes",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what do we do after these 4 labs are done, will we get another email for next stage?",
+        "asked_by": "aarfah",
+        "answer": "Hey once the labs are complete please fill out the lab completion form.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Currently, inviations i sbeing sent to my officr mail ID but would like you to please send it my personal email ID due to restrictions placed on my office network . What is procedure to do so?",
+        "asked_by": "Isher Singh",
+        "answer": "Hey you can change the email address in the stage 2",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "excat linkdin account id ?",
+        "asked_by": "chandan kumar",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how i find out which certification course i enrolled in cohort",
+        "asked_by": "Aman Patni",
+        "answer": "you will be directed to the track you chose in the next stage",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "@Program Team Damini, could you please share the lab completion form?",
+        "asked_by": "Me",
+        "answer": "https://docs.google.com/forms/d/e/1FAIpQLSc1kNp-LgFbSQ7AO4iRMbXWRO4xjLv8AnYXE5iXNQW1HC0T_g/viewform",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "do we get to choose certification path once we qualify stage 1? or is it the one we had initially selected?",
+        "asked_by": "Arnab Das",
+        "answer": "YOu will not get option to change the path once selected",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Does Completing all the labs ensure selection in stage 2 ?",
+        "asked_by": "Nikhil Mishra",
+        "answer": "Yes, it does",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How to validate that lab is completed ? I am not getting any feedback or validate button",
+        "asked_by": "Manan Rastogi",
+        "answer": "You can check your completions here https://googlecloud.qwiklabs.com/profile/activity",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is difference between dataflow and data fusion ?",
+        "asked_by": "shailesh siddheswaran",
+        "answer": "Dataflow is a fully managed service for batch and stream processing. Data Fusion is a managed service for building and managing data pipelines. Dataflow executes pipelines, while Data Fusion helps you build them, often with a visual interface.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi, I cant see , \"Google Cloud Fundamentals: Big Data & Machine Learning\" in my learning path , will it still takes time ?",
+        "asked_by": "Barathkumar",
+        "answer": "The rest 2 labs will be activated after the session today",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "When will the labs open today?",
+        "asked_by": "Dang",
+        "answer": "After the session",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "What is Docker in contrast with the lecture you have delivered before ?",
+        "asked_by": "shubham",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How much time will be required to get compleate certification in hand in general can you please tell, or tell the date ?",
+        "asked_by": "Nagsen Khotkar",
+        "answer": "You will be shared more info in stage 2",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I want to understand more about (continuous for regression, categorical for classification) and the desired outcome (prediction, clustering, etc.)",
+        "asked_by": "Maithri Hebbar",
+        "answer": "You're describing Machine Learning tasks! Regression: Predict a continuous value (like price). Classification: Predict a category (like spam/not spam). Clustering groups similar data points together, which is an unsupervised learning task.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "in below link \"https://www.cloudskillsboost.google/profile/activity\" I can see tick mark against the lab under passed. Does that mean the lab is successfully passed?",
+        "asked_by": "RITABRATA SAHA",
+        "answer": "Yes",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can you please share the support team email address. Some of us did'nt got the session invite for today's session. We asked our collegues to share the invitation link.",
+        "asked_by": "Ankit Kalsha",
+        "answer": "Fill the form : https://docs.google.com/forms/d/e/1FAIpQLSdkn008fjBwhm_xO5Hj8kpWuxfL7qTa6Umj0noxa-WCWOUjig/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Does BigQuery support JSON/JSONB Column storage like Postgres? or the dataset will always be stored as individual columns?",
+        "asked_by": "Mallikarjun Pasunkili",
+        "answer": "BigQuery treats JSON data as STRING, but offers powerful functions for querying within JSON structures. It doesn't store data specifically as JSON/JSONB columns like Postgres.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Will you be taking the stage 2 classes as well?",
+        "asked_by": "Arciman",
+        "answer": "You will get the information shared very soon",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "What is lab completion form? Is it this link - Complete Survey: Google Cloud Learning | Evaluation ?",
+        "asked_by": "Hariprasad Veerabathini",
+        "answer": "Fill this form after lab completion : https://docs.google.com/forms/d/e/1FAIpQLSc1kNp-LgFbSQ7AO4iRMbXWRO4xjLv8AnYXE5iXNQW1HC0T_g/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "What is Docker in contract with the lecture you have delivered before ?",
+        "asked_by": "shubham",
+        "answer": "Docker is a tool that lets you package applications with their dependencies into portable containers, making them run consistently across different environments, unlike VMs which virtualize the whole OS.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Will you be taking the stage 2 classes as well?",
+        "asked_by": "Arciman",
+        "answer": "You will get the information shared very soon",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Can we use mongoDB within Google Cloud?",
+        "asked_by": "Shiv Katira",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I want to understand more about (continuous for regression, categorical for classification) and the desired outcome (prediction, clustering, etc.) which course in cloud boost should i go thriugh get better understanding on these?",
+        "asked_by": "Maithri Hebbar",
+        "answer": "verbally answered...",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": ":https://cloud.google.com/learn/training/data-engineering-and-analytics https://cloud.google.com/learn/training/machinelearning-ai ----> do we need to complete the courses on this link on our own, or are these covered in our course journey path .",
+        "asked_by": "Geo",
+        "answer": "Please refer to the classroom link where you will find the labs : https://www.cloudskillsboost.google/classrooms/24608",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is the criteria for elimination to stage 2? Is it only labs or some other criteria as well?",
+        "asked_by": "Bhavithra R",
+        "answer": "Only 3 out of 4 labs completion.",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "SO, labs are the only criteria for advancing to stage 2?",
+        "asked_by": "Arciman",
+        "answer": "Yes",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is mathematics no more relevant for ML?",
+        "asked_by": "Arciman",
+        "answer": "Mathematics is still very relevant for ML! It underpins the algorithms and helps you understand how models learn and perform.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "any google service or tool which can handle data quality while developing a data pipeline?",
+        "asked_by": "Amit kumar",
+        "answer": "Cloud Data Fusion & Dataproc offer data validation & cleansing via DataPrep. Cloud Data Catalog helps understand & manage data. Dataflow can also integrate data quality checks within pipelines.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "if we get selected for certification prgm - what's the timeline for the same as I have to manage my work timings as well",
+        "asked_by": "Mayank",
+        "answer": "YOu will be shared all the details in the welcome email in stage 2",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Any specific skill set required to successfully complete the labs or the sessions are good to go and attend without prior knowledge or practice ?",
+        "asked_by": "Shiladatya M",
+        "answer": "This course is introductory level and the Lab Manual is detailed so even beginners will be able to complete it without any problems.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "HI NIkhil, a out of syllabus question, but can you just share your opinion on Open-source LLMs. Like, Meta's new Llama 3.1 -405b, and google's Gemma.",
+        "asked_by": "Ansh Gupta",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "please share the link to work on lab.. I'm getting access denied",
+        "asked_by": "s",
+        "answer": "Use this : https://www.cloudskillsboost.google/classrooms/24608",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How to register for this program now? can't access lab",
+        "asked_by": "Novojit Das",
+        "answer": "You are already registered that's why you are on the meeting today",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How is looker studio different from other visualization tools (Example:tableau)",
+        "asked_by": "Rakshana Bhaskaran",
+        "answer": "Looker Studio is often praised for its simplicity and ease of use, especially for those new to data visualization. It's free and integrates seamlessly with Google's suite of products. However, it might lack the depth of customization offered by Tableau. Tableau is known for its powerful features and flexibility. It's ideal for complex visualizations and deep data exploration. However, it can have a steeper learning curve and a higher cost.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Should we go for algebra, matrices and probability?",
+        "asked_by": "Rohit katoch",
+        "answer": "In most cases, only basic concepts are required.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi, yesterday I click on the lab, it says \"access denied to this resource\" can you assist me on this?",
+        "asked_by": "Ong Hui Ling",
+        "answer": "Fill this form https://docs.google.com/forms/d/e/1FAIpQLSdkn008fjBwhm_xO5Hj8kpWuxfL7qTa6Umj0noxa-WCWOUjig/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how can we balance model performance with computational cost during the tuning process using hyperparameter?",
+        "asked_by": "Hamza abbas",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How would we use BigQuery in conjunction with Vertex AI for data preparation",
+        "asked_by": "Logeshwaran",
+        "answer": "BigQuery can process and transform your data with SQL, then store it in formats Vertex AI prefers. You can even use BigQuery ML for initial modeling before using Vertex AI for more complex algorithms.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "while selecting the region in bigquery for creating dataset,will the pricing varies based on the regions selected?",
+        "asked_by": "Vetsa Sri Bhargav",
+        "answer": "No, BigQuery storage pricing is the same across regions within the same location group (e.g., US, EU). However, query costs can vary based on the location of your data and the BigQuery region you choose for processing.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How can we contact you after this session, shall we write you email or are you more resposnive on LinkedIn message. If email, can I ask you for your email?",
+        "asked_by": "Shiv Katira",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "is there any pre-requisite to complete basis google cloud foundation then comming to this data engineering / AI/ML",
+        "asked_by": "chandan kumar",
+        "answer": "No strict prerequisites! Cloud Foundations is helpful for core concepts, but you can start with Big Data & ML and learn along the way.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I click on the classroom link, but cannot click on the lab and lecture note. It shows access denied to this resource",
+        "asked_by": "Ong Hui Ling",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "If I have a feature factory, can GCP automatically retrain models within a certain time after a current version deploy?",
+        "asked_by": "indra yoga sara",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "we have to complete both lab and class evaluation?",
+        "asked_by": "s",
+        "answer": "Hey you just need to complete the 3 out of 4 labs",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Where can we practice ML skills and pratical problems?",
+        "asked_by": "Arciman",
+        "answer": "https://www.cloudskillsboost.google/paths/17?locale=en",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "also not able to access class notes",
+        "asked_by": "s",
+        "answer": "Fill this form https://docs.google.com/forms/d/e/1FAIpQLSdkn008fjBwhm_xO5Hj8kpWuxfL7qTa6Umj0noxa-WCWOUjig/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hello Deepti, I'm unable to login to Datalabthrough google account. It's showing it's disables",
+        "asked_by": "Vishakha Snehi",
+        "answer": "Fill this form https://docs.google.com/forms/d/e/1FAIpQLSdkn008fjBwhm_xO5Hj8kpWuxfL7qTa6Umj0noxa-WCWOUjig/viewform",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "getting access denied when tried to open lab",
+        "asked_by": "s",
+        "answer": "Whihc lab are you trying to access?",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Take some more water",
+        "asked_by": "md ali mejar",
+        "answer": "Thanks",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi Nikhil, I am Data Engineer currently working on multiple data products in Finance & Wealth Management area, Should I first complete GCP Data Engineer certification OR Machine Learning certification",
+        "asked_by": "Bhanu Pratap Singh",
+        "answer": "How about getting both? :-)",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Where can we practice ML skills and practical problems?",
+        "asked_by": "Arciman",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "So what exactly levy costs when using Vertex AI ? Is it amount of data ? Time taken for training ? type of model used or the Model Use case after ?",
+        "asked_by": "Rishabh Gupta",
+        "answer": "Refer this link: https://cloud.google.com/vertex-ai/pricing",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what if the automl training takes longer time in lab? since we will have lab for only 1 hr",
+        "asked_by": "Arnab Das",
+        "answer": "AutoML training times vary. If your 1-hour lab focuses on using AutoML, pre-trained models or smaller datasets can be provided to ensure completion. Focus on the process and analysis, not just waiting for training.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Got my answer, Thanks!",
+        "asked_by": "Bhanu Pratap Singh",
+        "answer": ":)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I'm unable to use corpoate ID as it eeds google account",
+        "asked_by": "Vishakha Snehi",
+        "answer": "Hey please use your corporate email at this stage. later at stage 2 you can switch to your personal",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "recommend a source where we can learn the basic of ML and Data engineering to train models",
+        "asked_by": "Abhishek Upadhyay",
+        "answer": "https://developers.google.com/machine-learning/crash-course",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi team, I had a query that I wanted to Opt for Professional ML Engineer course but i think unfortunately it was not offered to this batch, so can I apply again for next batch with different course?",
+        "asked_by": "Ansh Gupta",
+        "answer": "You can try next year and one enrollment in a year",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "For Data Engineering concepts / technologies / pipeline creation, where can I rely on for resources? ( Want to create advance level profile )",
+        "asked_by": "Shiladatya M",
+        "answer": "Online courses, tutorials, and open-source projects. Focus on cloud platforms (AWS, GCP, Azure), big data tools (Spark, Hadoop), databases (SQL, NoSQL), and data pipelines (Airflow, Luigi). Practical experience is key.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I register using personal email, but got notification using corporate emal, but I cant login using corporate email, it says dont have this account",
+        "asked_by": "Ong Hui Ling",
+        "answer": "You will need to create cloudskillsboost account with professional email and then complete the labs",
+        "answered_by": "#2 Program Team - Sai"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "are these modules are sufficient for certification?",
+        "asked_by": "Amit kumar",
+        "answer": "While these modules provide a great foundation, the certification exam covers a broader range of topics. Check the official exam guide for a complete list of skills and resources.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "where to start with the basics is there any link",
+        "asked_by": "Abhishek Upadhyay",
+        "answer": "You can refer to the required path below: https://www.cloudskillsboost.google/paths",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "after complting stage and stage 2 , will i ger professional data engineer certification??",
+        "asked_by": "bhagirath",
+        "answer": "It's up to you to get certified.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I joined today session, please share yesterday's lab link..",
+        "asked_by": "Nithya bai",
+        "answer": "Same here: https://www.cloudskillsboost.google/classrooms/24608",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what makes the lab marked as completed? is it the green ticks or the points we get?",
+        "asked_by": "Arnab Das",
+        "answer": "Hey yes that's correct",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Okay, I managed to get access with the corporate email. Thank you for your assistance",
+        "asked_by": "Ong Hui Ling",
+        "answer": ":)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Thanks, so can I apply for the first batch of 2025 for Professional ML course?",
+        "asked_by": "Ansh Gupta",
+        "answer": "Hey, you can check updates on the Google cloud get cert official page regarding it.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "as of now i'm working as a data engineer but difficulties to understand the ML models and statistics?",
+        "asked_by": "Abhishek Upadhyay",
+        "answer": "Don't worry! You don't need to be a statistics expert for ML. Focus on data preprocessing, feature engineering & pipeline building. GCP's pre-built ML APIs can be very helpful!",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "suggest some cloud boost labs which would be great to go through?",
+        "asked_by": "Maithri Hebbar",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "can we use sqoop,hive eith GCP",
+        "asked_by": "Sanket Kale",
+        "answer": "Yes! While not natively part of GCP, you can run Sqoop and Hive on GCP using Hadoop clusters managed by Dataproc.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "can we use sqoop,hive hbase with gcp",
+        "asked_by": "Sanket Kale",
+        "answer": "Yes! While not natively part of GCP, you can run Sqoop and Hive on GCP using Hadoop clusters managed by Dataproc.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Is hadoop still alive in the market?",
+        "asked_by": "Talha Khan",
+        "answer": "Hadoop is still relevant, particularly for on-premises data storage and processing. However, cloud-based solutions like Google Cloud offer scalability and managed services that are often more efficient for many use cases.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "after complting stage and stage 2 , will i get free voucher for professional data engineer certification??",
+        "asked_by": "bhagirath",
+        "answer": "Hey, yes once complete the prerequisite for stage 2 you will get the voucher for the track you chose.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is the difference between data fusion and data flow ?",
+        "asked_by": "shailesh siddheswaran",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Ohhk",
+        "asked_by": "Talha Khan",
+        "answer": ":)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Do we have lecture tmmorow?",
+        "asked_by": "Talha Khan",
+        "answer": "No, this session is the last one today.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "today's labs not enabled for me yet",
+        "asked_by": "Nilesh Kale",
+        "answer": "Due to the large number of attendees, it seems like it will take some time for everyone to activate. Please wait a little longer.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I can neither see the purple window nor can I get access through the linj",
+        "asked_by": "s",
+        "answer": "I would request you to kindly login in from your official registered email address and not from your personal email addresses. You will be able to access after the session",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Does Bigquery optimise dataform queries when processing or is there any special optimisation available inside bigquery, since we need to consume batch data having millions of records everyday",
+        "asked_by": "Aditya Muthmare",
+        "answer": "BigQuery doesn't specifically optimize for Dataform. However, it excels with large datasets. Dataform helps organize SQL, but BigQuery's own optimizations (like columnar storage, query optimizer) handle the heavy lifting for efficient processing of millions of records.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "hi , please share yesterday's lab link",
+        "asked_by": "barathkumar",
+        "answer": "https://www.cloudskillsboost.google/classrooms/24608",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Will you be kind to give a Demo for the First few steps of Lab 1, frrom the instruction manual? Thanks.",
+        "asked_by": "Aziz Quazi",
+        "answer": "Although not official, here's a clip to check out: https://www.youtube.com/watch?v=gbI11_isFMM",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "why postgres is considered to be a best option for ML?",
+        "asked_by": "Rohit katoch",
+        "answer": "PostgreSQL isn't typically considered the best option for the core ML workloads like model training. Its strengths lie in data handling and analysis around ML, like preprocessing and storing feature data.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how much data engineering will be relevant for someone to pursue a data analyst career...",
+        "asked_by": "Mathimanirangan",
+        "answer": "While not strictly required, understanding data engineering concepts like data pipelines & warehousing will make you a stronger data analyst, able to work more efficiently with data engineers.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Sorry for asking again. have some confusion with respect to completion of labs. I have completed labs , its showing green ticks. But , i havent received any points",
+        "asked_by": "Arnab Das",
+        "answer": "Receiving points is not a part of the program, once completed 3 out of 4 labs, please fill the form shared via email after session. We will share the results by 26th Aug, 2024",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "The form said that \"Labs done previous to these dates will not be considered\" . I already done all the lab long time ago. What do I need to do to submit the form?",
+        "asked_by": "Dang",
+        "answer": "you have to take the labs again, as previously done labs are not considered.",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "thankyou",
+        "asked_by": "barathkumar",
+        "answer": "Yw:)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "OK, thanks. I think, the lab instruction is a bit different",
+        "asked_by": "Aziz Quazi",
+        "answer": "Yw:)",
+        "answered_by": "#02 Program Support - Deepti Gupta"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "please send the form to be filled after completinng alabs",
+        "asked_by": "Basil kishore",
+        "answer": "Hey the form will be shared over email",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how we can connect if we have some doubt?",
+        "asked_by": "Abhishek Upadhyay",
+        "answer": "You can fill out this form with your doubts and queries. You will get a response from our team in 24 hours. https://forms.gle/zj5ikE3EqcqUCduz5",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "how to conect with support staff if we have some doubt ?",
+        "asked_by": "Abhishek Upadhyay",
+        "answer": "For Lab, use the '?' link above the manual screen.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Are google certificate vouchers limited and will be given on first come first serve basis or it will be given to all people who complete the lab within the time . Specifically asking for people who will reach stage 2",
+        "asked_by": "Manan Rastogi",
+        "answer": "Hey, everyone who complete the prerequisite will get the voucher.",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "Hi Nikhil, for someone who prefers refering to technical books, is there any recommended titles you would like to share?",
+        "asked_by": "Priyan",
+        "answer": "Because the cloud field is developing very quickly, I personally recommend online materials rather than books. Books are too slow to reflect new technologies.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "what is the difference between cloud composer and airflow ?",
+        "asked_by": "shailesh siddheswaran",
+        "answer": "Cloud Composer is a managed service for Apache Airflow. It simplifies running Airflow workflows on Google Cloud by managing the infrastructure, installation, and configuration.",
+        "answered_by": "00 Hwan-Tae Kim"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "How are the dashboards created in Looker studio are accessible to end users - for e.g can they simply use them from any browser interface by logging in similar to other BI tools",
+        "asked_by": "Shuvojit",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "I can see only today's lab (counts of 2 - yet to be enabled after the session ) but couldnt see yesterday's lab in this below link https://www.cloudskillsboost.google/classrooms/2460",
+        "asked_by": "barathkumar",
+        "answer": "hey please check here https://www.cloudskillsboost.google/classrooms/24608",
+        "answered_by": "#2 Program Team Damini"
+    },
+    {
+        "course": "GCS Certification",
+        "day": "2",
+        "question": "i can only see this lab in my dashboard - \"A Tour of Google Cloud Hands-on Labs\"",
+        "asked_by": "Shyam Kumar Sharma",
+        "answer": "This question has been answered verbally.",
+        "answered_by": "Nikhil Challa"
+    }
+]
